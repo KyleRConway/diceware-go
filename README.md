@@ -15,4 +15,4 @@ Attempted output will be something like the below, because I find it fun (and in
     ⚁ ⚂ ⚄ ⚃ ⚃ →#dividable
     ⚂ ⚀ ⚂ ⚂ ⚂ →#footing
 
-aftermost-outsource-untreated-wireless-dividable-footing
+    aftermost-outsource-untreated-wireless-dividable-footing
