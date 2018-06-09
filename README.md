@@ -9,10 +9,15 @@ Goal of the project here is to teach myself golang thorugh building something I 
 Attempted output will be something like the below, because I find it fun (and informative) to convert the numbers into unicode dice (to assist people in understanding the concept).
 
 ⚀ ⚀ ⚂ ⚁ ⚁ →#aftermost
+
 ⚃ ⚂ ⚀ ⚀ ⚀ →#outsource
+
 ⚅ ⚃ ⚅ ⚄ ⚃ →#untreated
+
 ⚅ ⚅ ⚂ ⚅ ⚅ →#wireless
+
 ⚁ ⚂ ⚄ ⚃ ⚃ →#dividable
+
 ⚂ ⚀ ⚂ ⚂ ⚂ →#footing
 
 aftermost-outsource-untreated-wireless-dividable-footing
